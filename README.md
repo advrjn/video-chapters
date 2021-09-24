@@ -12,4 +12,5 @@ This is a shell script to attach chapters in to videos.
 ## Usage
     ./script.sh url
 Keep assets folder using -k argument
+
     ./script.sh -k url
